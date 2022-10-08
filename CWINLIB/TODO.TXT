@@ -1,0 +1,4 @@
+To be tested:
+
+WinLoadFont (needs OsAttach, and OsOpen)
+WinSetFont (needs WinLoadFont tested)

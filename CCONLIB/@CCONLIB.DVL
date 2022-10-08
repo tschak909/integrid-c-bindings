@@ -1,0 +1,16 @@
+:Name:        Cconlib
+:Prefix:      ``Cconlib`
+:Objects:     ``Cconlib`
+:Listings:    ``Cconlib`
+
+:Sources:
+ CKPressd~Asm~
+ CCIn~Asm~
+ CDCsr~Asm~
+ CRDisplay~Asm~
+ CMovCsr~Asm~
+ CCout~Asm~
+ CLOut~Asm~
+ CPChar~Asm~
+ CHexOut~Asm~
+ CLineIn~Asm~ 
